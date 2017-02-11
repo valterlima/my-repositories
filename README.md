@@ -25,10 +25,10 @@ ASP.NET MVC 5 App to convert Excel files to CSV. Currently supporting Excel 2003
 
 ## Algorithms
 [FreeCodeCamp Algorithms Challenge](https://github.com/valterlima/Algorithms-FreeCodeCamp) <br />
-<p>My solutions for the algorithms challenges using JavaScript</p>
+<p>My solutions for the algorithms challenges using JavaScript</p> <br />
 
 [Colisoes](https://github.com/valterlima/colisoes) <br />
-<p>HTML 5 Canvas Animation envolving Physics (Momentum and Collisions)</p>
+<p>HTML 5 Canvas Animation envolving Physics (Momentum and Collisions)</p> <br />
 
 [QuedaLivre](https://github.com/valterlima/quedra-flivre) <br />
-<p>HTML 5 Canvas Animation envolving Physics (Free fall)</p>
+<p>HTML 5 Canvas Animation envolving Physics (Free fall)</p> <br />
