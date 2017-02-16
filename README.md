@@ -30,5 +30,5 @@ ASP.NET MVC 5 App to convert Excel files to CSV. Currently supporting Excel 2003
 [Colisoes](https://github.com/valterlima/colisoes) <br />
 <p>HTML 5 Canvas Animation envolving Physics (Momentum and Collisions)</p>
 
-[QuedaLivre](https://github.com/valterlima/quedra-flivre) <br />
+[QuedaLivre](https://github.com/valterlima/queda-livre) <br />
 <p>HTML 5 Canvas Animation envolving Physics (Free fall)</p>
