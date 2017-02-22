@@ -1,4 +1,4 @@
-# My repositories
+# My work
 A summary of my public GitHub repositories
 
 ## NodeJS
@@ -11,6 +11,10 @@ A summary of my public GitHub repositories
 [Header Parser](https://github.com/valterlima/vlm-header-parser)
 
 [Timestamp Microservice](https://github.com/valterlima/vlm-timestamp-microservice)
+
+## React
+[ReactSheet](https://github.com/valterlima/react-sheet) <br />
+Simple Spreadsheet-like app using pure React
 
 ## Ruby
 [MicroPosts](https://github.com/valterlima/microposts) <br />
@@ -32,3 +36,14 @@ ASP.NET MVC 5 App to convert Excel files to CSV. Currently supporting Excel 2003
 
 [QuedaLivre](https://github.com/valterlima/queda-livre) <br />
 <p>HTML 5 Canvas Animation envolving Physics (Free fall)</p>
+
+# My contributions
+Some repositories I'd contributed to <br />
+[KeyCodes](https://github.com/wesbos/keycodes) <br />
+Easy visualizer for JavaScript KeyCodes
+
+[adventurerscodex](https://github.com/adventurerscodex/adventurerscodex) <br />
+Experience the next step in tabletop RPGs
+
+[Learn TDD](https://github.com/dwyl/learn-tdd) <br />
+A brief introduction to Test Driven Development (TDD) in JavaScript (Complete Beginner's Step-by-Step Tutorial)
