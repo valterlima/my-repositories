@@ -1,7 +1,16 @@
 # My work
 A summary of my public GitHub repositories
 
+## React
+[ReactSheet](https://github.com/valterlima/react-sheet) <br />
+Simple Spreadsheet-like app using pure React
+
+[Chuck Norris Quotes](https://github.com/valterlima/chuck_norris) <br />
+Single Page Application that queries an API for Chuck Norris famous quotes (Authentication with Auth0 and JWT)
+
 ## NodeJS and Express (APIs)
+[Chuck Norris Quotes API](https://github.com/valterlima/chuck_norris_api)
+
 [Url Shortener](https://github.com/valterlima/vlm-url-shortener)
 
 [File Metadata](https://github.com/valterlima/vlm-file-metadata)
@@ -11,10 +20,6 @@ A summary of my public GitHub repositories
 [Header Parser](https://github.com/valterlima/vlm-header-parser)
 
 [Timestamp Microservice](https://github.com/valterlima/vlm-timestamp-microservice)
-
-## React
-[ReactSheet](https://github.com/valterlima/react-sheet) <br />
-Simple Spreadsheet-like app using pure React
 
 ## Ruby
 [MicroPosts](https://github.com/valterlima/microposts) <br />
